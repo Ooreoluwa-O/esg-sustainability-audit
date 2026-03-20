@@ -2,6 +2,11 @@
 A PostgreSQL data validation framework simulating an EY-style ESG audit for Nigerian companies.
 ESG assurance audit for Nigerian companies before regulatory filing.
 
+## Case Study
+EY wins a contract with Okonkwo Energy PLC, a Nigerian oil company listed on the Nigerian Stock Exchange. The SEC Nigeria and international investors are now requiring Okonkwo to publish a verified ESG report (Environmental, Social, and Governance data) by the end of the year. Okonkwo's team has been collecting this data manually. Different departments have been submitting spreadsheets. The finance team handles emissions. HR submits diversity numbers. The legal team tracks governance policies. But nobody is checking if the numbers are consistent, complete, or even logical. 
+EY is hired to do two things. First, consult on building a proper ESG data system. Second, assure the data, which means independently verify that it is accurate before it goes to regulators and investors.
+You are the junior consultant on that engagement. Before the report gets filed, you need to run validation checks on everything Okonkwo submitted. 
+
 ## What This Project Does
 Companies across Nigeria are under pressure to report Environmental, Social and Governance (ESG) data to the SEC, investors, and international frameworks like GRI and TCFD.
 
